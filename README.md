@@ -12,3 +12,7 @@ of an asset from the options market price).
 Realized volatility which will be compared against your forecast will be calculated as the square root of the sum of the squared daily returns of the SPY ETF 
 and then annualized by multiplying this number by the square root of 52.
 
+Models:
+ARCH
+GARCH
+LSTM
